@@ -1,0 +1,11 @@
+{
+  "name": "ampersand-react-starter",
+  "version": "1.0.0",
+  "description": "A starter kit based off Henrik Joreteg's Fontend Masters course.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "philipjc",
+  "license": "MIT"
+}

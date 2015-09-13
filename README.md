@@ -1,8 +1,7 @@
-###A starter kit to build a static web app using Ampersand and React as the view.
-###This starter is based from Henrik Joretegs Ampersand course and also uses his hjs-webpack module.
+####A starter kit to build a static web app using Ampersand and React as the view.
+This starter is based from Henrik Joretegs Ampersand course and also uses his hjs-webpack module.
 
-
-####Here are the links for the awesome modules used. Thank you to all the wonderfull creators.
+Here are the links for the awesome modules used. Thank you to all the wonderfull creators.
 * [Ampersand](http://ampersandjs.com/)
 * [ampersand-app](https://www.npmjs.com/package/ampersand-app)
 * [ampersand-model](https://www.npmjs.com/package/ampersand-model)
